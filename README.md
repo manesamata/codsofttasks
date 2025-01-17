@@ -1,4 +1,4 @@
 # codsofttasks
-task1
-task2
-task3
+task1=TO-DO LIST
+task2=SIMPLE CALCULATOR
+task3=PASS GENERATOR
